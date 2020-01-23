@@ -1,0 +1,16 @@
+.prodCard{
+  margin: 1rem;
+  padding: 1rem;
+  border: solid 1px;
+  border-radius: 5%;
+  max-width: 15.625rem;
+  display: inline-block;
+
+  .prodName{
+    font-weight: bold;
+  }
+
+  .prodImg{
+    max-width: 100%
+  }
+}
